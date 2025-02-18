@@ -16,8 +16,9 @@
 - 🌱 I’m currently learning **bootstrap, Flutter**
 
 
-
+--------------------------------------------
 - 📫 How to reach me **mgetu6661@gmail.com**
+- -------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
